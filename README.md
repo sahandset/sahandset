@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - 💻 Coding for Nonprofits and CU HyperLoop TBM
 - 🌱 Learning TensorFlow and PyTorch
 - 📚 Reading Algorithms to Live By: The Computer Science of Human Decisions
-- ⚡️ Following Cryptocurrencies & blockchain technologies
+- ⚡️ Following cryptocurrencies & blockchain technologies
