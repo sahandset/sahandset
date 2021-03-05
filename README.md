@@ -1,4 +1,5 @@
-### Hi there 👋
+## Hi there, I'm Sahand 👋
+#### I'm currently...
 
 <!--
 **sahandset/sahandset** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🎓 Pursuing BS Computer Science @ University of Colorado Boulder | Graduating May 2022
+- 🌱 Learning TensorFlow and PyTorch
+- 📚 Reading Algorithms to Live By: The Computer Science of Human Decisions
+- ⚡️ Investing in Cryptocurrencies
