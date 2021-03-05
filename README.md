@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - 🎓 Pursuing BS Computer Science @ University of Colorado Boulder | Graduating May 2022
 - 🌱 Learning TensorFlow and PyTorch
 - 📚 Reading Algorithms to Live By: The Computer Science of Human Decisions
-- ⚡️ Following Cryptocurrencies (BTC, ETH, DOGE) & blockchain technologies (RIOT, MARA)
+- ⚡️ Following Cryptocurrencies & blockchain technologies
