@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 - 🎓 Pursuing BS Computer Science @ University of Colorado Boulder | Graduating May 2022
-- 💻 Coding for non-profits 
+- 💻 Coding for non-profits and the CU HyperLoop Tunnel-Boring Machine (TBM)
 - 🌱 Learning TensorFlow and PyTorch
 - 📚 Reading City of Thieves
 - ⚡️ Following cryptocurrencies & blockchain technologies
