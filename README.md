@@ -20,4 +20,3 @@ Here are some ideas to get you started:
 - 💻 Coding for non-profits and the CU Hyperloop Tunnel-Boring Machine (TBM)
 - 🌱 Learning TensorFlow and PyTorch
 - 📚 Reading The Alchemist
-- ⚡️ Following cryptocurrencies & blockchain technologies
