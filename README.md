@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 -->
 
 - 🎓 Pursuing BS Computer Science @ University of Colorado Boulder | Graduating May 2022
-- 💻 Coding for non-profits and the CU Hyperloop Tunnel-Boring Machine (TBM)
-- 🌱 Learning TensorFlow and PyTorch
+- 💻 Coding for Non-profits and the CU Hyperloop Tunnel-Boring Machine (TBM)
+- 🌱 Learning Vue JS, AWS, and Salesforce
 - 📚 Reading The Alchemist
