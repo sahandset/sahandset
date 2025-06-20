@@ -16,8 +16,8 @@ I'm a backend engineer passionate about building robust, scalable infrastructure
 
 🚧 Building high-signal open-source projects designed to push systems boundaries and showcase exemplary engineering craftsmanship:
 
-- **🔐 Zero-Trust VPN** – Fully encrypted tunneling with mTLS, DNS filtering, and Layer-7 firewalling.  
-  [Source Code](https://github.com/sahandset/zero-trust-vpn)
+- **🦫 Zero-Trust VPN** – Fully encrypted tunneling with mTLS, DNS filtering, and Layer-7 firewalling.  
+  [Source Code](https://github.com/sahandset/burrow-vpn)
 
 ---
 
