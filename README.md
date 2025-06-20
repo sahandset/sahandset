@@ -17,6 +17,5 @@ When I'm not coding I like to cook, learn about culture and history, travel, and
 ## 📫 Let's Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/sahandset)
-- ✉️ sahand.set@gmail.com
 
 ---
