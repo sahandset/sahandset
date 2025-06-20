@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Sahand Setareh
+# 👋 Hey, I'm Sahand
 
 I'm a backend engineer passionate about building robust, scalable infrastructure and software. I have worked predominantly in Java (learning Go and Rust expeditiously -- check out my projects!), and I love working at the intersection of infrastructure, cloud, and security.
 
